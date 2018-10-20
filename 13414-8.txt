@@ -45,29 +45,29 @@ Translated by CONSTANCE GARNETT
 CONTENTS
 
 
-LOVE
-LIGHTS
-A STORY WITHOUT AN END
-MARI D'ELLE
-A LIVING CHATTEL
-THE DOCTOR
-TOO EARLY!
-THE COSSACK
-ABORIGINES
-AN INQUIRY
-MARTYRS
-THE LION AND THE SUN
-A DAUGHTER OF ALBION
-CHORISTERS
-NERVES
-A WORK OF ART
-A JOKE
-A COUNTRY COTTAGE
-A BLUNDER
-FAT AND THIN
-THE DEATH OF A GOVERNMENT CLERK
-A PINK STOCKING
-AT A SUMMER VILLA
+     LOVE
+     LIGHTS
+     A STORY WITHOUT AN END
+     MARI D'ELLE
+     A LIVING CHATTEL
+     THE DOCTOR
+     TOO EARLY!
+     THE COSSACK
+     ABORIGINES
+     AN INQUIRY
+     MARTYRS
+     THE LION AND THE SUN
+     A DAUGHTER OF ALBION
+     CHORISTERS
+     NERVES
+     A WORK OF ART
+     A JOKE
+     A COUNTRY COTTAGE
+     A BLUNDER
+     FAT AND THIN
+     THE DEATH OF A GOVERNMENT CLERK
+     A PINK STOCKING
+     AT A SUMMER VILLA
 
 
 
@@ -388,8 +388,8 @@ We climbed up on the embankment and from its height looked down
 upon the earth. A hundred yards away where the pits, holes, and
 mounds melted into the darkness of the night, a dim light was
 twinkling. Beyond it gleamed another light, beyond that a third,
-then a hundred paces away two red eyes glowed side by side--
-probably the windows of some hut--and a long series of such lights,
+then a hundred paces away two red eyes glowed side by side--probably
+the windows of some hut--and a long series of such lights,
 growing continually closer and dimmer, stretched along the line to
 the very horizon, then turned in a semicircle to the left and
 disappeared in the darkness of the distance. The lights were
@@ -529,7 +529,7 @@ that he has got his feet firmly planted on the right road, that he
 has definite work, a secure living, a settled outlook. . . . His
 sunburnt, thicknosed face and muscular neck seemed to say: "I am
 well fed, healthy, satisfied with myself, and the time will come
-when you young people too, will be wellfed, healthy, and satisfied
+when you young people too, will be well-fed, healthy, and satisfied
 with yourselves. . . ." He was dressed in a cotton shirt with the
 collar awry and in full linen trousers thrust into his high boots.
 From certain trifles, as for instance, from his coloured worsted
@@ -552,8 +552,8 @@ and seemed all the while to be thinking of something else. His
 movements and voice were calm, and smooth too, but his calmness was
 of a different kind from the engineer's. His sunburnt, slightly
 ironical, dreamy face, his eyes which looked up from under his
-brows, and his whole figure were expressive of spiritual stagnation
---mental sloth. He looked as though it did not matter to him in
+brows, and his whole figure were expressive of spiritual
+stagnatio--mental sloth. He looked as though it did not matter to him in
 the least whether the light were burning before him or not, whether
 the wine were nice or nasty, and whether the accounts he was checking
 were correct or not. . . . And on his intelligent, calm face I read:
@@ -627,8 +627,8 @@ there can be no progress, no science, no art, nor even thought
 itself. We fancy that we are cleverer than the crowd, and than
 Shakespeare. In reality our thinking leads to nothing because we
 have no inclination to go down to the lower steps and there is
-nowhere higher to go, so our brain stands at the freezing point--
-neither up nor down; I was in bondage to these ideas for six years,
+nowhere higher to go, so our brain stands at the freezing point--neither
+up nor down; I was in bondage to these ideas for six years,
 and by all that is holy, I never read a sensible book all that time,
 did not gain a ha'porth of wisdom, and did not raise my moral
 standard an inch. Was not that disastrous? Moreover, besides being
@@ -671,8 +671,8 @@ though for a man from Petersburg or Moscow, life in it would be as
 dreary and comfortless as in any Tchuhloma or Kashira. With melancholy
 I passed by the high school where I had been a pupil; with melancholy
 I walked about the very familiar park, I made a melancholy attempt
-to get a nearer look at people I had not seen for a long time--
-all with the same melancholy.
+to get a nearer look at people I had not seen for a long time--all
+with the same melancholy.
 
 "Among other things, I drove out one evening to the so-called
 Quarantine. It was a small mangy copse in which, at some forgotten
@@ -724,8 +724,8 @@ called Kross, probably an insignificant, little man, felt his
 unimportance so deeply that he gave full licence to his penknife
 and carved his name in deep letters an inch high. I took a pencil
 out of my pocket mechanically, and I too scribbled on one of the
-columns. All that is irrelevant, however. . . You must forgive me
---I don't know how to tell a story briefly.
+columns. All that is irrelevant, however. . . You must forgive
+me--I don't know how to tell a story briefly.
 
 "I was sad and a little bored. Boredom, the stillness, and the
 purring of the sea gradually brought me to the line of thought we
@@ -799,7 +799,7 @@ conscience was perfectly untroubled. I, the son of honourable
 parents, a Christian, who had received a superior education, not
 naturally wicked or stupid, felt not the slightest uneasiness when
 I paid women _Blutgeld_, as the Germans call it, or when I followed
-highschool girls with insulting looks. . . . The trouble is that
+high-school girls with insulting looks. . . . The trouble is that
 youth makes its demands, and our philosophy has nothing in principle
 against those demands, whether they are good or whether they are
 loathsome. One who knows that life is aimless and death inevitable
@@ -879,8 +879,8 @@ the uniform of a high-school boy. The doings of far, vanished days,
 the days of long ago. . . . I remember this Kisotchka, a thin little
 high-school girl of fifteen or sixteen, when she was something just
 for a schoolboy's taste, created by nature especially for Platonic
-love. What a charming little girl she was! Pale, fragile, light--
-she looked as though a breath would send her flying like a feather
+love. What a charming little girl she was! Pale, fragile, light--she
+looked as though a breath would send her flying like a feather
 to the skies--a gentle, perplexed face, little hands, soft long
 hair to her belt, a waist as thin as a wasp's--altogether something
 ethereal, transparent like moonlight--in fact, from the point of
@@ -918,7 +918,7 @@ all of you. . . . Ah, how good that is!'
 
 "Kisotchka's eyes shone with genuine goodwill and gladness. She was
 admiring me like an elder sister or a former governess. 'While I
-looked at her sweet face and thought, 'It wouldn't be bad to get
+looked at her sweet face and thought, It wouldn't be bad to get
 hold of her to-day!'
 
 "'Do you remember, Natalya Stepanovna,' I asked her, 'how I once
@@ -979,7 +979,7 @@ at the book and recognised it as 'Malinin and Burenin's Arithmetical
 Examples.' It was open, as I now remember, at the 'Rules of Compound
 Interest.'
 
-"'To whom are you giving lessons?' I asked Kisotchka.'
+"'To whom are you giving lessons?' I asked Kisotchka.
 
 "'Nobody,' she answered. 'I am just doing some. . . . I have nothing
 to do, and am so bored that I think of the old days and do sums.'
@@ -1231,8 +1231,8 @@ with this sensation come thoughts of the aimlessness of life, of
 death, and of the darkness of the grave. . . . The thoughts are not
 worth a brass farthing, but the expression of face must be fine. . . .
 
-"While I was sitting and dozing, unable to bring myself to get up
---I was warm and comfortable--all at once, against the even
+"While I was sitting and dozing, unable to bring myself to get
+up--I was warm and comfortable--all at once, against the even
 monotonous murmur of the sea, as though upon a canvas, sounds began
 to grow distinct which drew my attention from myself. . . . Someone
 was coming hurriedly along the avenue. Reaching the summer-house
@@ -1342,7 +1342,7 @@ every step I took and stared at me fixedly with its hundred black
 windows. A normal young man would have been moved to romantic
 feelings in such surroundings, but I looked at the dark windows and
 thought: 'All this is very impressive, but time will come when of
-that building and of Kisntchka and her troubles and of me with my
+that building and of Kisotchka and her troubles and of me with my
 thoughts, not one grain of dust will remain. . . . All is nonsense
 and vanity. . . .'
 
@@ -1404,7 +1404,7 @@ But never mind . . . let us go on,' said Kisotchka, and she laughed.
 "I remembered that over the gate of the cemetery there was an
 inscription: 'The hour will come wherein all they that lie in the
 grave will hear the voice of the Son of God.' I knew very well that
-sooner of later I and Kisotchka and her husband and the officer in
+sooner or later I and Kisotchka and her husband and the officer in
 the white tunic would lie under the dark trees in the churchyard;
 I knew that an unhappy and insulted fellow-creature was walking
 beside me. All this I recognised distinctly, but at the same time
@@ -1467,7 +1467,7 @@ not walk, but I took her under the arms and almost carried her. . . .
 I remember, as we were going up the stairs, some man with a red
 band in his cap looked wonderingly at me and bowed to Kisotchka. . . ."
 
-Ananvev flushed crimson and paused. He walked up and down near the
+Ananyev flushed crimson and paused. He walked up and down near the
 table in silence, scratched the back of his head with an air of
 vexation, and several times shrugged his shoulders and twitched his
 shoulder-blades, while a shiver ran down his huge back. The memory
@@ -2130,7 +2130,7 @@ that it was still alive. It was painful to look at that face, but
 what must it have been for Vassilyev himself who yet had the strength
 to argue and, if I were not mistaken, to pose?
 
-"You here--are you here ?" he asked suddenly, raising himself on
+"You here--are you here?" he asked suddenly, raising himself on
 his elbow. "My God, just listen!"
 
 I began listening. The rain was pattering angrily on the dark window,
@@ -2808,8 +2808,8 @@ Hold your tongue!"
 
 And he struck her on her pretty supple shoulder. "Hold your tongue,
 you wretched creature. I'll give you worse than that! If that
-scoundrel dares to show himself here ever again, if I see you--
-listen!--with that blackguard ever again, don't ask for mercy!
+scoundrel dares to show himself here ever again, if I see
+you--listen!--with that blackguard ever again, don't ask for mercy!
 I'll kill you, if I go to Siberia for it! And him too. I shouldn't
 think twice about it! You can go, I don't want to see you!"
 
@@ -3459,7 +3459,7 @@ dinner indoors! What a girl you are, really. . . ."
 Bugrov stared and stared, and suddenly began shouting. Groholsky
 looked at him and saw a face full of astonishment. . . .
 
-"Is that you ?" bawled Ivan Petrovitch, "you! Are you here too?"
+"Is that you?" bawled Ivan Petrovitch, "you! Are you here too?"
 
 Groholsky passed his fingers from one shoulder to another, as though
 to say, "My chest is weak, and so I can't shout across such a
@@ -3551,8 +3551,8 @@ two hundred thousand roubles. That is gratifying to me. But I cannot
 approve of your having left the service while still of a grade of
 little importance; even a rich man ought to be in the service. I
 bless you always, now and hereafter. Ilya and Seryozhka Andronov
-send you their greetings. You might send them ten roubles each--
-they are badly off!
+send you their greetings. You might send them ten roubles
+each--they are badly off!
 
                                        "Your loving Father,
 
@@ -4125,8 +4125,8 @@ piano.
 "She does not play," said Bugrov; "she is no musician. . . . Hey,
 you there! Ivan! call Grigory Vassilyevitch here! What's he doing
 there?" And turning to me, Bugrov added, "Our musician will come
-directly; he plays the guitar. We keep the piano for Mishutka--
-we are having him taught. . . ."
+directly; he plays the guitar. We keep the piano for Mishutka--we
+are having him taught. . . ."
 
 Five minutes later, Groholsky walked into the room--sleepy,
 unkempt, and unshaven. . . . He walked in, bowed to me, and sat
@@ -5380,8 +5380,8 @@ flowers on it. Vassya, of course, I did not find at home. I went
 into the kitchen to tell Praskovya to set the samovar, and there I
 saw on the table some pretty little carrots and turnips like
 playthings. I ate one little carrot and well, a turnip too. I ate
-very little, but only fancy, I began having a sharp pain at once
---spasms . . . spasms . . . spasms . . . ah, I am dying. Vassya
+very little, but only fancy, I began having a sharp pain at
+once--spasms . . . spasms . . . spasms . . . ah, I am dying. Vassya
 runs from the office. Naturally he clutches at his hair and turns
 white. They run for the doctor. . . . Do you understand, I am dying,
 dying."
@@ -5470,7 +5470,7 @@ Lizotchka shudders and opens her eyes.
 Goodness, why am I so unlucky as not to sleep. Vassya, have pity,
 do tell me something!"
 
-"What shall I tell you ?"
+"What shall I tell you?"
 
 "Something about love," Lizotchka says languidly. "Or some anecdote
 about Jews. . . ."
@@ -5579,7 +5579,7 @@ shuts of itself and refuses to open. . . .
 "What's the matter with you, my good sir?" his chief asks him. "What
 is it?"
 
-Vassy a waves his hand and sits down.
+Vassya waves his hand and sits down.
 
 "Don't ask me, your Excellency," he says with a sigh. "What I have
 suffered in these two days, what I have suffered! Liza has been
@@ -5594,7 +5594,7 @@ to the ceiling, as though he would say: "It's the will of Providence."
 "Ah, my boy, I can sympathise with you with all my heart!" sighs
 his chief, rolling his eyes. "I've lost my wife, my dear, I understand.
 That is a loss, it is a loss! It's awful, awful! I hope Lizaveta
-Pavlovna is better now! What doctor is attending her ?"
+Pavlovna is better now! What doctor is attending her?"
 
 "Von Schterk."
 
@@ -5755,7 +5755,7 @@ there apparently already knew something and were making their
 conjectures, for the secretary went up to him and said with an
 ironical smile:
 
-"It is the custom of the Pcrsians when an illustrious visitor comes
+"It is the custom of the Persians when an illustrious visitor comes
 to visit you, you must slaughter a sheep with your own hands."
 
 And a little later an envelope that had come by post was handed to
@@ -5838,7 +5838,7 @@ upon which their floats were swimming.
 "A desperate passion, but deadly dull!" laughed Otsov. "Good-day,
 Ivan Kuzmitch."
 
-"Ah . . . is that you ?" asked Gryabov, not taking his eyes off the
+"Ah . . . is that you?" asked Gryabov, not taking his eyes off the
 water. "Have you come?"
 
 "As you see . . . . And you are still taken up with your crazy
@@ -6715,7 +6715,7 @@ the wind that said them!"
 
 Next morning I got a little note:
 
-"If you are tobogganning to-day, come for me. --N."
+"If you are tobogganning to-day, come for me.--N."
 
 And from that time I began going every day tobogganning with Nadenka,
 and as we flew down in the sledge, every time I pronounced in a low
@@ -6751,8 +6751,8 @@ But then the month of March arrived . . . the spring sunshine was
 more kindly. . . . Our ice-hill turned dark, lost its brilliance
 and finally melted. We gave up tobogganning. There was nowhere now
 where poor Nadenka could hear those words, and indeed no one to
-utter them, since there was no wind and I was going to Petersburg
---for long, perhaps for ever.
+utter them, since there was no wind and I was going to
+Petersburg--for long, perhaps for ever.
 
 It happened two days before my departure I was sitting in the dusk
 in the little garden which was separated from the yard of Nadenka's
@@ -6936,8 +6936,8 @@ elbow. "Come along, now!"
 And without a second's delay Peplov flung open the door.
 
 "Children," he muttered, lifting up his arms and blinking tearfully,
-"the Lord bless you, my children. May you live--be fruitful--
-and multiply."
+"the Lord bless you, my children. May you live--be fruitful--and
+multiply."
 
 "And--and I bless you, too," the mamma brought out, crying with
 happiness. "May you be happy, my dear ones! Oh, you are taking from
